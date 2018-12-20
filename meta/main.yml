@@ -4,7 +4,7 @@ dependencies: []
 
 galaxy_info:
   author: Liv Community
-  description: Simple wget for alpine
+  description: Simple nano role for alpine
   company: none
   license: BSD
   min_ansible_version: 2.4
